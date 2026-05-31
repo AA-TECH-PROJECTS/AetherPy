@@ -1,5 +1,8 @@
+<div align="center">
+   
 # AetherPy
 # 🐍 Python Learning Projects
+</div>
 
 A collection of Python projects and learning exercises — from beginner scripts to practical applications like face recognition and user authentication.
 
@@ -75,7 +78,10 @@ pip install opencv-python face_recognition numpy
 ## 🧑‍💻 Author
 
 **Abdullah Adnan**
-- GitHub: AA-TECH-PROJECTS(https://github.com/AA-TECH-PROJECTS)
+- Portfolio: [AA Quantum Tech](https://aaquantumtech.studio/)
+- GitHub: [AA-TECH-PROJECTS](https://github.com/AA-TECH-PROJECTS)
+- LinkedIn: [Abdullah Adnan](www.linkedin.com/in/abdullah-adnan-ba06642b6)
+
 
 ---
 
